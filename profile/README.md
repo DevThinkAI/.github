@@ -6,7 +6,7 @@ We understand the constant evolution of AI tools can be overwhelming. That’s w
 
 The goal is to make DevThink.AI more than just a newsletter. It’s an opportunity to be part of a community of like-minded developers, all committed to leveraging AI to enhance their efficiency and code quality.
 
-## [Subscribe to DevThink.AI](https://devthink.ai)
+## 📰 [Subscribe to DevThink.AI](https://devthink.ai) ☑️
 
 
 
